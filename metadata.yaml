@@ -1,0 +1,42 @@
+_repo: Perfect-Answer_51482
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Stecher, L. J., Jr.
+    aliases:
+    - Wesley, Joseph
+    - Stecher, L. J.
+    - Stecher, Lewis J., Jr.
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '32723'
+    url: http://www.gutenberg.org/2009/agents/32723
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers -- Fiction'
+- !lcsh 'Computers -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Questions and answers -- Fiction'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Artificial intelligence -- Fiction'
+- GITenberg
+title: Perfect Answer
+url: http://www.gutenberg.org/ebooks/51482
