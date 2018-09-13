@@ -1,11 +1,14 @@
 _repo: Perfect-Answer_51482
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Francis, Dick
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51482-h/images/cover.jpg
 creator:
   author:
     agent_name: Stecher, L. J., Jr.
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '32723'
     url: http://www.gutenberg.org/2009/agents/32723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51482#Perfect-Answer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-17'
 gutenberg_type: Text
